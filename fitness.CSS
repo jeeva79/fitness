@@ -128,7 +128,7 @@ section {
 }
 
 .home {
-  background: url(../../image/fitness/home-bg.jpg) no-repeat;
+  background: url(https://user-images.githubusercontent.com/125794481/233116196-b53038af-ddc8-4ad0-82a5-ea5c592e3862.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -182,7 +182,7 @@ section {
 }
 
 .counter {
-  background: url(../../image/fitness/counter-bg.jpg) no-repeat;
+  background: url(https://user-images.githubusercontent.com/125794481/233116190-55b976b5-ce97-4f6f-8e25-afcae4072a81.jpg) no-repeat;
   background-size: cover;
   background-position: center;
 }
@@ -490,7 +490,7 @@ section {
 }
 
 .footer {
-  background: url(../../image/fitness/footer-bg.jpg) no-repeat;
+  background: url(https://user-images.githubusercontent.com/125794481/233116193-676671c6-6d65-4bec-9684-19559391b3a2.jpg) no-repeat;
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -625,4 +625,3 @@ section {
     font-size: 50%;
   }
 }
-/*# sourceMappingURL=style.css.map */
